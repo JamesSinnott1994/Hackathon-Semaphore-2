@@ -1,1 +1,1 @@
-# Hackathon-Semaphore-2
+# HackatonSemaphore
